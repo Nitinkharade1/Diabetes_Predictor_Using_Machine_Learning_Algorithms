@@ -26,17 +26,17 @@ The Diabetes Predictor project focuses on developing a predictive model for diab
 
 To use the Diabetes Predictor, follow these steps:
 
-##1.Clone the Repository:
+**1.Clone the Repository:**
    
    git clone https://github.com/your-username/diabetes-predictor.git
    
 
-##2.Install Dependencies:
+**2.Install Dependencies:**
    
    pip install -r requirements.txt
    
 
-##3.Run the Model:
+**3.Run the Model:**
    
    python predict_diabetes.py
    
